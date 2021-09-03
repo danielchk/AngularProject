@@ -1,0 +1,24 @@
+.titlecontent{
+  font-weight: bold;
+  font-size: 50px;
+  margin-top: 50px;;
+  margin-left: 20px;
+  margin-bottom: 50px;
+}
+.contenttext{
+  margin-top: 50px;
+}
+.description{
+  line-height: 30px;
+  text-align: center;
+  background-color: gray;
+  font-size: 25px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.hobbyimg {
+  margin: 50px;
+  width: 200px;
+  height: 200px;
+}
